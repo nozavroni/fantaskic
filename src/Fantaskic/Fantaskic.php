@@ -14,5 +14,5 @@ namespace Fantaskic;
 
 class Fantaskic
 {
-
+    const VERSION = '0.1';
 }
